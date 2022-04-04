@@ -1,0 +1,73 @@
+html body{
+    background-color: lightblue;
+    margin: 0%;
+    padding: 0%;
+    list-style: none;
+    text-decoration: none;
+
+}
+
+h1{
+    text-align: center;
+}
+.operation{
+    padding: 15px;
+    text-align: center;
+}
+.reverse_string{
+    text-decoration: none;
+    color: black;
+    font-size: 2.0rem;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 5px 20px;
+}
+.reverse_string:hover{
+    background-color: rgb(50, 123, 168);
+}
+
+.palindrome {
+    padding: 5px 20px;
+    text-decoration: none;
+    color: black;
+    font-size: 2.0rem;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+.palindrome:hover{
+    background-color: rgb(50, 123, 168);
+}
+
+.reverse_number{
+    padding: 5px 20px;
+    text-decoration: none;
+    color: black;
+    font-size: 2.0rem;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+.reverse_number:hover{
+   background-color: rgb(50, 123, 168);
+}
+
+
+#value{
+    text-align: center;
+    margin-top: 30px;
+    
+}
+
+input{
+    padding: 10px 50px;
+    border: 1px solid black;
+    border-radius: 20px;
+    font-size: 2.0rem;
+}
+
+
+#answer{
+    text-align: center;
+    font-size: 2.0rem;
+    font-family: 'Poppins', sans-serif;
+    color: red;
+}
